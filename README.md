@@ -5,8 +5,12 @@
 ### FFmpeg
 https://ffmpeg.org/
 
+#### Capture Webcam
+https://trac.ffmpeg.org/wiki/Capture/Webcam
+
 ### ffprobe
 https://ffmpeg.org/ffprobe.html
+
 
 
 ### Source files:
