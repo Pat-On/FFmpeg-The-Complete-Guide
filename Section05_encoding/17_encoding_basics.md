@@ -59,3 +59,12 @@ ffmpeg -v error -y -i bullfinch.mov -vcodec libvpx-vp9 -acodec libmp3lame transc
 
 ffprobe -v error transcoded.mp4 -select_streams a -show_entries stream=codec_name -print_format default=noprint_wrappers=1
 ```
+
+
+# Summary
+- choosing codec
+- encoding examples
+- default codec based on container
+- `-vcodec` `-acodec`
+- codec + container combination
+- list encoders
