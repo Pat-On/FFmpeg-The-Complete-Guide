@@ -12,6 +12,8 @@ https://trac.ffmpeg.org/wiki/Capture/Webcam
 https://ffmpeg.org/ffprobe.html
 
 
+### What is a TS File and How to Play TS Videos
+https://recoverit.wondershare.com/video-recovery/what-is-ts-file.html
 
 ### Source files:
 
